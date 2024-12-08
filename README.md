@@ -7,3 +7,8 @@ Además, se debe tener un historial de todas las transacciones hechas por el sis
 TDA
 
 ![TDA](https://github.com/user-attachments/assets/62b2182c-f008-4c02-ba6d-b21dffcfe74e)
+
+
+Video Explicativo
+
+https://github.com/user-attachments/assets/51749e84-fa9a-4447-931a-32f9b4d7311d
